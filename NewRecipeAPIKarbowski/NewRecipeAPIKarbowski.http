@@ -1,0 +1,6 @@
+@NewRecipeAPIKarbowski_HostAddress = https://localhost:7082
+
+GET {{NewRecipeAPIKarbowski_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

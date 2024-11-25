@@ -1,0 +1,209 @@
+﻿[
+  {
+    "Id": "f4828a29-5b8d-4c4b-a5d6-df99ad77b1f7",
+    "Name": "Spaghetti Carbonara",
+    "ImageURL": "https://onedishkitchen.com/wp-content/uploads/2020/04/pasta-carbonara-one-dish-kitchen-fi-enhanced.png",
+    "Time": "25 minutes",
+    "Description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+    "Ingredients": "200g spaghetti, 100g pancetta, 2 large eggs, 50g grated Parmesan cheese, 2 cloves garlic, black pepper, salt",
+    "Directions": "1. Cook spaghetti until al dente. 2. In a pan, sauté pancetta and garlic. 3. Beat eggs with Parmesan and pepper. 4. Mix hot pasta with pancetta and egg mixture off heat. 5. Serve immediately."
+  },
+  {
+    "Id": "e2d4b007-df5a-4f79-bc9d-d1e0ea7cb5f2",
+    "Name": "Margarita Cocktail",
+    "ImageURL": "https://www.viners.co.uk/media/recipe/margarita_lrg_1.png",
+    "Time": "10 minutes",
+    "Description": "A refreshing cocktail with tequila, lime juice, and orange liqueur, served with a salted rim.",
+    "Ingredients": "50ml tequila, 25ml lime juice, 20ml orange liqueur (e.g., Cointreau), ice, salt",
+    "Directions": "1. Rim the glass with salt. 2. Shake tequila, lime juice, and orange liqueur with ice. 3. Strain into the glass. 4. Garnish with a lime wedge."
+  },
+  {
+    "Id": "ac81251c-8f67-4e5b-b318-1baf506f4795",
+    "Name": "Chicken Tikka Masala",
+    "ImageURL": "https://www.easyhomemeals.com/wp-content/uploads/Chicken-Tikka-Masala-Recipe.png",
+    "Time": "40 minutes",
+    "Description": "A popular Indian dish featuring grilled chicken in a creamy spiced tomato sauce.",
+    "Ingredients": "500g chicken breast, 200g yogurt, 1 tbsp garam masala, 2 tbsp tomato paste, 1 onion, 2 cloves garlic, 1 tsp ginger, 200ml cream, 1 tsp turmeric, salt, pepper",
+    "Directions": "1. Marinate chicken with yogurt, garam masala, turmeric, and salt. 2. Grill or pan-sear chicken. 3. Sauté onion, garlic, and ginger. 4. Add tomato paste, cream, and spices to make sauce. 5. Combine chicken with sauce and simmer. 6. Serve with rice or naan."
+  },
+  {
+    "Id": "b14e5bb3-f4cd-4b5c-8744-0b928ef9e57b",
+    "Name": "Mojito Cocktail",
+    "ImageURL": "https://mezcalpro.com/wp-content/uploads/2023/05/mezcal-mojito-recipe.png",
+    "Time": "8 minutes",
+    "Description": "A classic Cuban cocktail with rum, lime, mint, sugar, and soda water.",
+    "Ingredients": "50ml white rum, 10 fresh mint leaves, 1 tbsp sugar, 25ml lime juice, soda water, ice",
+    "Directions": "1. Muddle mint leaves with sugar and lime juice in a glass. 2. Add rum and stir. 3. Fill glass with ice and top with soda water. 4. Garnish with a sprig of mint."
+  },
+  {
+    "Id": "7c91d6e7-cfd7-44d5-8883-b856fc4b9ef9",
+    "Name": "Classic Margherita Pizza",
+    "ImageURL": "https://www.theslowroasteditalian.com/wp-content/uploads/2013/04/Lemon-Herb-Margherita-Pizza.png",
+    "Time": "30 minutes",
+    "Description": "A simple and delicious pizza with fresh mozzarella, tomato sauce, and basil.",
+    "Ingredients": "1 pizza dough, 100ml tomato sauce, 125g fresh mozzarella, fresh basil leaves, olive oil, salt",
+    "Directions": "1. Preheat oven to 250°C (480°F). 2. Roll out pizza dough. 3. Spread tomato sauce evenly. 4. Add mozzarella slices. 5. Bake for 10-12 minutes. 6. Top with fresh basil and a drizzle of olive oil."
+  },
+  {
+    "Id": "39fd79a4-9f3b-44d4-8237-e4a5dbfbe3c2",
+    "Name": "French Onion Soup",
+    "ImageURL": "https://www.maritimeglutton.com/wp-content/uploads/2020/10/Copy-of-Untitled-2.png",
+    "Time": "1 hour",
+    "Description": "A hearty soup made with caramelized onions and beef stock, topped with toasted bread and melted cheese.",
+    "Ingredients": "4 large onions, 50g butter, 1 tbsp olive oil, 1L beef stock, 2 tbsp flour, 100ml white wine, salt, pepper, baguette slices, grated Gruyère cheese",
+    "Directions": "1. Caramelize onions in butter and oil. 2. Add flour and cook briefly. 3. Deglaze with white wine. 4. Add beef stock, salt, and pepper. 5. Simmer for 40 minutes. 6. Serve with toasted baguette slices topped with melted Gruyère."
+  },
+  {
+    "Id": "ec2c5906-c03a-4c67-87a4-721b8e34b0e2",
+    "Name": "Old Fashioned Cocktail",
+    "ImageURL": "https://www.gotolouisville.com/imager/s3_us-east-1_amazonaws_com/louisville-2019/images/Old-Fashioned-BCH_f69c17b56b270deda0220b2ba6b4d051.png",
+    "Time": "5 minutes",
+    "Description": "A timeless whiskey cocktail with a hint of sweetness and bitters.",
+    "Ingredients": "50ml bourbon or rye whiskey, 1 sugar cube, 2 dashes Angostura bitters, orange peel, ice",
+    "Directions": "1. Muddle sugar and bitters in a glass. 2. Add whiskey and ice. 3. Stir well. 4. Garnish with an orange peel."
+  },
+  {
+    "Id": "74f29d17-5c67-47a6-9a68-9b4d51ebf68f",
+    "Name": "Piña Colada",
+    "ImageURL": "https://www.icecream.com/content/dam/dreyersgrandicecreaminc/us/en/icecream-com/recipes/outshine/pinacolada/Finished-Pinacolada-In-Glass-2.png",
+    "Time": "7 minutes",
+    "Description": "A tropical cocktail with rum, coconut cream, and pineapple juice.",
+    "Ingredients": "50ml white rum, 50ml coconut cream, 100ml pineapple juice, ice, pineapple slice (for garnish)",
+    "Directions": "1. Blend rum, coconut cream, pineapple juice, and ice until smooth. 2. Pour into a glass. 3. Garnish with a pineapple slice."
+  },
+  {
+    "Id": "2f8a73e6-fb63-414b-91b4-2e6c1f9eb9e7",
+    "Name": "Vegetable Stir-Fry",
+    "ImageURL": "https://s.lightorangebean.com/media/20240914144639/Thai-Vegetable-Stir-Fry-with-Lime-and-Ginger_done.png",
+    "Time": "20 minutes",
+    "Description": "A quick and healthy dish with colorful vegetables and a savory sauce.",
+    "Ingredients": "1 red bell pepper, 1 yellow bell pepper, 1 broccoli head, 2 carrots, 2 tbsp soy sauce, 1 tbsp sesame oil, 1 tsp ginger, 2 cloves garlic, sesame seeds, rice (optional)",
+    "Directions": "1. Chop vegetables into bite-sized pieces. 2. Sauté garlic and ginger in sesame oil. 3. Add vegetables and stir-fry for 5-7 minutes. 4. Add soy sauce and toss. 5. Garnish with sesame seeds and serve with rice if desired."
+  },
+  {
+    "Id": "b123a6d8-3e32-4f4f-ae6b-c4e5f2c57464",
+    "Name": "Beef Tacos",
+    "ImageURL": "https://sandraseasycooking.com/wp-content/uploads/2013/08/Classic-Beef-Tacos-Recipe--735x490.png",
+    "Time": "25 minutes",
+    "Description": "Delicious tacos filled with seasoned beef, fresh toppings, and your favorite salsa.",
+    "Ingredients": "500g ground beef, 1 onion, 2 tsp chili powder, 1 tsp cumin, 1 tsp paprika, salt, taco shells, lettuce, tomato, shredded cheese, salsa",
+    "Directions": "1. Cook ground beef with chopped onion until browned. 2. Add spices and stir. 3. Fill taco shells with beef, lettuce, tomato, cheese, and salsa. 4. Serve immediately."
+  },
+  {
+    "Id": "6a9b7cd1-fd52-47b1-89f3-27b7e7458f8e",
+    "Name": "Shrimp Scampi",
+    "ImageURL": "https://www.crunchycreamysweet.com/wp-content/uploads/2020/08/shrimp-scampi-feat.png",
+    "Time": "30 minutes",
+    "Description": "A flavorful pasta dish with shrimp cooked in garlic butter and white wine.",
+    "Ingredients": "300g shrimp, 200g spaghetti, 4 cloves garlic, 50g butter, 50ml white wine, 2 tbsp olive oil, parsley, lemon, salt, pepper",
+    "Directions": "1. Cook spaghetti until al dente. 2. Sauté garlic in olive oil and butter. 3. Add shrimp and cook until pink. 4. Deglaze with white wine. 5. Toss pasta with shrimp mixture and parsley. 6. Serve with a squeeze of lemon."
+  },
+  {
+    "Id": "d41c8211-ae6e-44b7-b21b-9e634ddf7f58",
+    "Name": "Cosmopolitan Cocktail",
+    "ImageURL": "https://eatsbythebeach.com/wp-content/uploads/2019/09/FI-Cosmopolitan-Martini-Eats-By-The-Beach.png",
+    "Time": "5 minutes",
+    "Description": "A sophisticated cocktail with vodka, cranberry juice, and a hint of citrus.",
+    "Ingredients": "40ml vodka, 15ml orange liqueur, 30ml cranberry juice, 10ml lime juice, ice, lime twist (for garnish)",
+    "Directions": "1. Shake vodka, orange liqueur, cranberry juice, and lime juice with ice. 2. Strain into a chilled martini glass. 3. Garnish with a lime twist."
+  },
+  {
+    "Id": "4c38c7fd-b6cf-4c0b-91c7-34e3f7e3e4bc",
+    "Name": "Mai Tai",
+    "ImageURL": "https://s.lightorangebean.com/media/20240914143020/Classic-Mai-Tai-Cocktail_-done.png",
+    "Time": "7 minutes",
+    "Description": "A tropical cocktail with rum, orange liqueur, lime juice, and almond syrup.",
+    "Ingredients": "40ml dark rum, 20ml white rum, 15ml orange liqueur, 10ml almond syrup, 25ml lime juice, ice, mint sprig, lime wheel (for garnish)",
+    "Directions": "1. Shake all ingredients with ice. 2. Strain into a glass filled with crushed ice. 3. Garnish with mint sprig and lime wheel."
+  },
+  {
+    "Id": "8e4f7f12-0db7-4f9b-a4e4-72e52e2bf8cf",
+    "Name": "Chicken Caesar Salad",
+    "ImageURL": "https://www.mississippivegan.com/wp-content/uploads/2022/12/crispy-chickun-caeser-resized.png",
+    "Time": "20 minutes",
+    "Description": "A crisp and flavorful salad with grilled chicken, romaine lettuce, croutons, and Caesar dressing.",
+    "Ingredients": "2 chicken breasts, 1 romaine lettuce, 50g Parmesan cheese, 1 cup croutons, 100ml Caesar dressing, olive oil, salt, pepper",
+    "Directions": "1. Season and grill chicken breasts, then slice. 2. Chop lettuce and place in a bowl. 3. Add croutons, Parmesan, and dressing. 4. Top with chicken slices and serve."
+  },
+  {
+    "Id": "0f874b64-34c9-45f9-8a3e-5a20f6b8c3c1",
+    "Name": "Vegetarian Chili",
+    "ImageURL": "https://plantbasedandbroke.com/wp-content/uploads/2020/08/Vegetarian-Tofu-Bean-Chili-1200x1200-1.png",
+    "Time": "45 minutes",
+    "Description": "A hearty and spicy chili made with beans, vegetables, and aromatic spices.",
+    "Ingredients": "1 onion, 2 cloves garlic, 1 bell pepper, 1 zucchini, 400g canned diced tomatoes, 400g canned kidney beans, 1 tbsp chili powder, 1 tsp cumin, olive oil, salt, pepper",
+    "Directions": "1. Sauté onion, garlic, and bell pepper in olive oil. 2. Add zucchini and spices, then cook for 5 minutes. 3. Stir in tomatoes and beans. 4. Simmer for 25 minutes. 5. Serve hot."
+  },
+  {
+    "Id": "bc4ad6b1-b0c7-4503-b983-4d284e9f745a",
+    "Name": "Butter Chicken",
+    "ImageURL": "https://www.samaheats.com/wp-content/uploads/2024/03/Untitled-design-15-768x1024.png",
+    "Time": "50 minutes",
+    "Description": "A creamy and flavorful Indian dish with tender chicken in a rich tomato butter sauce.",
+    "Ingredients": "500g chicken thighs, 2 tbsp butter, 1 onion, 3 cloves garlic, 1 tsp ginger, 200ml tomato purée, 100ml cream, 1 tsp garam masala, 1 tsp turmeric, salt, pepper",
+    "Directions": "1. Sauté chicken in butter until browned. 2. Remove chicken and cook onion, garlic, and ginger. 3. Add spices and tomato purée, then simmer. 4. Stir in cream and return chicken to the pan. 5. Cook for 20 minutes and serve."
+  },
+  {
+    "Id": "7b1e9c84-f6fc-4721-8f6b-202e2cf7253d",
+    "Name": "Whiskey Sour",
+    "ImageURL": "https://chilledmagazine.com/wp-content/uploads/2023/12/whiskey-sour.png",
+    "Time": "5 minutes",
+    "Description": "A refreshing cocktail with whiskey, lemon juice, and simple syrup.",
+    "Ingredients": "50ml whiskey, 25ml lemon juice, 15ml simple syrup, ice, lemon slice (for garnish)",
+    "Directions": "1. Shake whiskey, lemon juice, and simple syrup with ice. 2. Strain into a rocks glass over ice. 3. Garnish with a lemon slice."
+  },
+  {
+    "Id": "f2ab54dc-378c-4975-8437-b47a81a6b91b",
+    "Name": "Tom Collins",
+    "ImageURL": "https://lastcalltrivia.com/wp-content/uploads/2022/09/Competing-Origins.png",
+    "Time": "5 minutes",
+    "Description": "A classic gin cocktail with lemon, sugar, and soda water.",
+    "Ingredients": "50ml gin, 25ml lemon juice, 15ml simple syrup, soda water, ice, lemon wheel (for garnish)",
+    "Directions": "1. Shake gin, lemon juice, and simple syrup with ice. 2. Strain into a glass filled with ice. 3. Top with soda water and garnish with a lemon wheel."
+  },
+  {
+    "Id": "a51c786d-c167-4b8e-8e13-4f7c8337e9e9",
+    "Name": "Pan-Seared Salmon",
+    "ImageURL": "https://s.wendyweekendgourmet.com/media/20240914090123/pan-seared-salmon-with-lemony-greens_done.png",
+    "Time": "20 minutes",
+    "Description": "A quick and flavorful salmon dish with crispy skin and a lemon butter sauce.",
+    "Ingredients": "2 salmon fillets, 1 tbsp olive oil, 2 tbsp butter, 1 lemon, 1 clove garlic, salt, pepper, parsley",
+    "Directions": "1. Season salmon with salt and pepper. 2. Heat olive oil in a skillet and sear salmon skin-side down for 4 minutes. 3. Flip and cook for another 3 minutes. 4. Add butter, garlic, and lemon juice to the pan. 5. Spoon sauce over salmon and garnish with parsley."
+  },
+  {
+    "Id": "f872b4d4-4d43-42e3-995d-8bc7b4f9c4ab",
+    "Name": "Eggplant Parmesan",
+    "ImageURL": "https://plantifullybasedblog.com/wp-content/uploads/2023/02/eggplant-parm-image.png",
+    "Time": "50 minutes",
+    "Description": "A comforting Italian dish with layers of breaded eggplant, marinara sauce, and melted cheese.",
+    "Ingredients": "2 eggplants, 2 cups marinara sauce, 1 cup breadcrumbs, 2 eggs, 1 cup grated Parmesan, 200g mozzarella, olive oil, salt, pepper",
+    "Directions": "1. Slice and salt eggplants, then pat dry. 2. Dip slices in beaten eggs and breadcrumbs. 3. Fry until golden. 4. Layer marinara, eggplant, Parmesan, and mozzarella in a baking dish. 5. Bake at 200°C (400°F) for 20 minutes."
+  },
+  {
+    "Id": "7b62e8c9-1357-4537-a4b6-734c16d77b4f",
+    "Name": "Beef Stroganoff",
+    "ImageURL": "https://greedy-panda.com/wp-content/uploads/2021/11/Beef-Stroganoff-adjusted-e1636188563749-1600x1067.png",
+    "Time": "35 minutes",
+    "Description": "A creamy and savory Russian dish with tender beef and mushrooms.",
+    "Ingredients": "500g beef sirloin, 200g mushrooms, 1 onion, 2 cloves garlic, 200ml sour cream, 1 tbsp Dijon mustard, 1 tsp paprika, 2 tbsp butter, salt, pepper, pasta or rice",
+    "Directions": "1. Sear beef strips in butter, then remove from pan. 2. Sauté onions, garlic, and mushrooms. 3. Add mustard, paprika, and sour cream. 4. Return beef to the pan and simmer. 5. Serve over pasta or rice."
+  },
+  {
+    "Id": "d74c9f0d-c41a-4e0c-b9fb-3f8c87248d2b",
+    "Name": "Mint Julep",
+    "ImageURL": "https://www.stemilt.com/wp-content/uploads/2022/04/BLOG-HEADER-3.png",
+    "Time": "5 minutes",
+    "Description": "A refreshing bourbon cocktail with fresh mint and a touch of sweetness.",
+    "Ingredients": "50ml bourbon, 10 fresh mint leaves, 1 tbsp sugar, crushed ice, mint sprig (for garnish)",
+    "Directions": "1. Muddle mint leaves with sugar in a glass. 2. Fill the glass with crushed ice. 3. Pour bourbon over the ice and stir. 4. Garnish with a mint sprig."
+  },
+  {
+    "Id": "0fc567d3-e19a-432e-bb6e-cfa9e9b23a13",
+    "Name": "Espresso Martini",
+    "ImageURL": "https://farmtojar.com/wp-content/uploads/2023/09/IMG_1732.png",
+    "Time": "5 minutes",
+    "Description": "A rich and smooth cocktail with vodka, coffee liqueur, and fresh espresso.",
+    "Ingredients": "50ml vodka, 25ml coffee liqueur, 25ml fresh espresso, ice, coffee beans (for garnish)",
+    "Directions": "1. Shake vodka, coffee liqueur, and espresso with ice. 2. Strain into a chilled martini glass. 3. Garnish with coffee beans."
+  }
+]
